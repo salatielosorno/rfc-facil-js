@@ -7,7 +7,7 @@ const json = require('rollup-plugin-json')
 
 const pkg = require('./package.json')
 
-const libraryName = 'rfc-facil'
+const libraryName = 'rfc-facil-js'
 
 export default {
   input: `src/${libraryName}.ts`,
