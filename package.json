@@ -1,18 +1,18 @@
 {
-  "name": "rfc-facil",
+  "name": "rfc-facil-js",
   "version": "0.0.1",
   "description": "",
   "keywords": [],
-  "main": "dist/rfc-facil.umd.js",
-  "module": "dist/rfc-facil.es5.js",
-  "typings": "dist/types/rfc-facil.d.ts",
+  "main": "dist/rfc-facil-js.umd.js",
+  "module": "dist/rfc-facil-js.es5.js",
+  "typings": "dist/types/rfc-facil-js.d.ts",
   "files": [
     "dist"
   ],
   "author": "Josue Zarzosa <josketres@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/josketres/rfc-facil-js"
+    "url": "https://github.com/salatielosorno/rfc-facil-js"
   },
   "license": "MIT",
   "engines": {
